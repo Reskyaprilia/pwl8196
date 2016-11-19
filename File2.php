@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Modifying Elements</title>
+    <title>Friends</title>
   </head>
   <body>
     <p>
